@@ -24,7 +24,7 @@ git push -u origin master
 
 ## 주의사항
 * 절대 같은 파일을 두명 이상이 편집하지 않는다.
-* `.gitignore` 파일 관리를 잘 해야 한다. 만약 ide 도구 등에서 자동으로 변경되는 파일들이 repository 에 섞여서 push 될 경우 여러가지 문제를 일으킨다.
+* `.gitignore` 파일 관리를 잘 해야 한다. 만약 ide 도구 등에서 자동으로 변경되는 파일들이 Repository 에 섞여서 push 될 경우 여러가지 문제를 일으킨다.
 * 반드시 `branch`를 구분해야 한다.
 
 ## branch 분리하기 : 매우 중요한 내용
